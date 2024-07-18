@@ -105,6 +105,10 @@ span {
   margin-top: 1.5rem;
   line-height: 1;
 }
+.home-content p{
+  font-size: 2rem;
+  font-weight: 600;
+}
 .home-img {
   border-radius: 50%;
 }
@@ -402,6 +406,7 @@ nav a.active {
 }
 
 .title {
+  justify-content: center;
   text-align: center;
   font-size: 2.5rem;
   font-weight: 900;
